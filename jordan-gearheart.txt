@@ -56,21 +56,14 @@ https://codepen.io/broveku/pen/XWMVjNj
     15:#id-name 
     16: section defines a group in html while div does not?
     17:CSS is used for styling of webpages
-    18:
-    h2 {
-
-    }
+    18: h2 {}
     19:classes can be defined many times while an id can only be defined once in a document, not sure myself about when to use one or the other
-    20:.classname{
-
-    }
-    21: .human p {
-
-    }
+    20:.classname{ }
+    21: .human p {}
     22:parent child selectors are useful when for example you have multiple h2s but you only want to edit one that is blocked within a certain class so
     instead of doing a h2 you would do a .classname h2{ } to only effect the h2 within the class="classname"
     23:
-    24:
+    24:psuedo selectors are things like :hover 
     25: line-height
     26:letter-spacing
     27:text-transform
